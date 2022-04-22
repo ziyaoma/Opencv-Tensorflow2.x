@@ -1,6 +1,9 @@
 # Opencv-Tensorflow2.x
 用opencv调用tensorflow2.x的keras训练的模型
 
+tensorflow 2.2.0
+opencv 4.2.0.32
+
 Python：
   文件里面包含训练和测试，tensorflow的调用和opencv调用的测试都有
   opencv-tfkeras1.py
